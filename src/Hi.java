@@ -5,12 +5,11 @@ public class Hi
 {
     public static void main(String[] args)
     {
-        for(int i = 0; i < 5; i++)
+        int x = 3;
+        System.out.println("Я управляю миром");
+        if (x == 3)
         {
-            System.out.println(5);
-            System.out.println("Привет мир");
-
-            // тестовый коммит номер два
+            System.out.println("Да детка еще)");
         }
     }
 }
